@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add Number Guessing Game">
-      <change afterPath="$PROJECT_DIR$/easy/rock_paper_scissors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add Rock, Paper, Scissors Game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +54,7 @@
     "Python.learning_functions.executor": "Run",
     "Python.number_guesser.executor": "Run",
     "Python.quiz_game.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -112,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760412866571</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Rock, Paper, Scissors Game">
+      <option name="closed" value="true" />
+      <created>1760428758425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760428758425</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +137,7 @@
     <MESSAGE value="First Lesson" />
     <MESSAGE value="Add Quiz Game" />
     <MESSAGE value="Add Number Guessing Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Number Guessing Game" />
+    <MESSAGE value="Add Rock, Paper, Scissors Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Rock, Paper, Scissors Game" />
   </component>
 </project>
