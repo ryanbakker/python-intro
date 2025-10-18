@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add timed math challenge">
-      <change afterPath="$PROJECT_DIR$/medium/slot_machine.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add text-based slot machine game">
+      <change afterPath="$PROJECT_DIR$/medium/turtle_racing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Python.quiz_game.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.slot_machine.executor": "Run",
+    "Python.turtle_racing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -174,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760747576368</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add text-based slot machine game">
+      <option name="closed" value="true" />
+      <created>1760756573984</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760756573984</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -202,6 +211,7 @@
     <MESSAGE value="Add PIG dice game" />
     <MESSAGE value="Add madlibs generator" />
     <MESSAGE value="Add timed math challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add timed math challenge" />
+    <MESSAGE value="Add text-based slot machine game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add text-based slot machine game" />
   </component>
 </project>
