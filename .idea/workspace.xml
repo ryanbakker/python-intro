@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add alarm clock/timer">
-      <change afterPath="$PROJECT_DIR$/easy/password_generator.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add password generator">
+      <change afterPath="$PROJECT_DIR$/advanced/path_finder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.number_guesser.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.password_manager.executor": "Run",
+    "Python.path_finder.executor": "Run",
     "Python.pig_dice_game.executor": "Run",
     "Python.quiz_game.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
@@ -216,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760775802576</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add password generator">
+      <option name="closed" value="true" />
+      <created>1760777089220</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1760777089220</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -248,6 +257,7 @@
     <MESSAGE value="Add turtle racing game" />
     <MESSAGE value="Add speed typing test game with test sentences" />
     <MESSAGE value="Add alarm clock/timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add alarm clock/timer" />
+    <MESSAGE value="Add password generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add password generator" />
   </component>
 </project>
