@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add turtle racing game">
-      <change afterPath="$PROJECT_DIR$/medium/speed_typing_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/typing_tests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add speed typing test game with test sentences">
+      <change afterPath="$PROJECT_DIR$/easy/alarm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/alarm_clock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.alarm_clock.executor": "Run",
     "Python.app.executor": "Run",
     "Python.fundamentals.executor": "Run",
     "Python.learning_functions.executor": "Run",
@@ -72,9 +72,15 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/easy",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/easy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -194,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760763976627</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add speed typing test game with test sentences">
+      <option name="closed" value="true" />
+      <created>1760773130490</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1760773130490</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -224,6 +238,7 @@
     <MESSAGE value="Add timed math challenge" />
     <MESSAGE value="Add text-based slot machine game" />
     <MESSAGE value="Add turtle racing game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add turtle racing game" />
+    <MESSAGE value="Add speed typing test game with test sentences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add speed typing test game with test sentences" />
   </component>
 </project>
