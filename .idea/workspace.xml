@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add object-oriented programming lesson">
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/finish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/grass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/green-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/grey-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/purple-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/red-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/track-border.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/track.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/imgs/white-car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car_racing/utils.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Car racing project init, adding assets, and moving the car">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_racing/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_racing/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760866550082</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Car racing project init, adding assets, and moving the car">
+      <option name="closed" value="true" />
+      <created>1760900856840</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1760900856840</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -344,6 +342,7 @@
     <MESSAGE value="Add aim trainer game and move mastermind game" />
     <MESSAGE value="Add scripting challenge" />
     <MESSAGE value="Add object-oriented programming lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add object-oriented programming lesson" />
+    <MESSAGE value="Car racing project init, adding assets, and moving the car" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car racing project init, adding assets, and moving the car" />
   </component>
 </project>
