@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Car racing project init, adding assets, and moving the car">
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add car racing track collision &amp; finish line">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/car_racing/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_racing/main.py" afterDir="false" />
     </list>
@@ -302,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760900856840</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add car racing track collision &amp; finish line">
+      <option name="closed" value="true" />
+      <created>1760905211350</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1760905211350</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -343,6 +351,7 @@
     <MESSAGE value="Add scripting challenge" />
     <MESSAGE value="Add object-oriented programming lesson" />
     <MESSAGE value="Car racing project init, adding assets, and moving the car" />
-    <option name="LAST_COMMIT_MESSAGE" value="Car racing project init, adding assets, and moving the car" />
+    <MESSAGE value="Add car racing track collision &amp; finish line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add car racing track collision &amp; finish line" />
   </component>
 </project>
