@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add car racing track collision &amp; finish line">
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add computer car &amp; path">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/car_racing/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_racing/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_racing/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_racing/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-git.push.result": "",
+    "Notification.DoNotAsk-git.push.result": "true",
     "Python.aim_trainer.executor": "Run",
     "Python.alarm_clock.executor": "Run",
     "Python.app.executor": "Run",
@@ -310,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760905211350</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add computer car &amp; path">
+      <option name="closed" value="true" />
+      <created>1760910644280</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1760910644280</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -352,6 +363,7 @@
     <MESSAGE value="Add object-oriented programming lesson" />
     <MESSAGE value="Car racing project init, adding assets, and moving the car" />
     <MESSAGE value="Add car racing track collision &amp; finish line" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add car racing track collision &amp; finish line" />
+    <MESSAGE value="Add computer car &amp; path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add computer car &amp; path" />
   </component>
 </project>
