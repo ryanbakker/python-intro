@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add BFS Path Finder Program">
-      <change afterPath="$PROJECT_DIR$/medium/youtube_video_downloader.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add YouTube video downloader">
+      <change afterPath="$PROJECT_DIR$/medium/automated_file_backup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760788396077</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add YouTube video downloader">
+      <option name="closed" value="true" />
+      <created>1760831665187</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1760831665187</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -267,6 +276,7 @@
     <MESSAGE value="Add alarm clock/timer" />
     <MESSAGE value="Add password generator" />
     <MESSAGE value="Add BFS Path Finder Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BFS Path Finder Program" />
+    <MESSAGE value="Add YouTube video downloader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add YouTube video downloader" />
   </component>
 </project>
