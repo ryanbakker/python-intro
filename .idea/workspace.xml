@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add automated file backup program">
-      <change afterPath="$PROJECT_DIR$/medium/mastermind_game.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add Mastermind color code guessing game">
+      <change afterPath="$PROJECT_DIR$/advanced/aim_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/mastermind_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced/mastermind_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aim_trainer.executor": "Run",
     "Python.alarm_clock.executor": "Run",
     "Python.app.executor": "Run",
     "Python.fundamentals.executor": "Run",
@@ -75,12 +78,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/ryanbakker/Dev/python/easy",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/easy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/advanced" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -250,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760836348680</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add Mastermind color code guessing game">
+      <option name="closed" value="true" />
+      <created>1760838951487</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1760838951487</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -286,6 +300,7 @@
     <MESSAGE value="Add BFS Path Finder Program" />
     <MESSAGE value="Add YouTube video downloader" />
     <MESSAGE value="Add automated file backup program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add automated file backup program" />
+    <MESSAGE value="Add Mastermind color code guessing game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Mastermind color code guessing game" />
   </component>
 </project>
