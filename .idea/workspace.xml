@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add aim trainer game and move mastermind game">
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/hello_world_game/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/my_game.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/rock_paper_scissors_game/code.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/simon_says_game/file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/spiderGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/get_game_data.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add scripting challenge">
+      <change afterPath="$PROJECT_DIR$/object_oriented/class_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/multiple_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/simple_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_oriented/static_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/fundamentals.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/fundamentals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/learning_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/learning_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +62,16 @@
     "Python.aim_trainer.executor": "Run",
     "Python.alarm_clock.executor": "Run",
     "Python.app.executor": "Run",
+    "Python.class_attributes.executor": "Run",
     "Python.fundamentals.executor": "Run",
     "Python.get_game_data.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.learning_functions.executor": "Run",
     "Python.madlibs_generator.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.mastermind_game.executor": "Run",
     "Python.math_challenge.executor": "Run",
+    "Python.multiple_classes.executor": "Run",
     "Python.number_guesser.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.password_manager.executor": "Run",
@@ -78,6 +81,7 @@
     "Python.rock_paper_scissors.executor": "Run",
     "Python.slot_machine.executor": "Run",
     "Python.speed_typing_test.executor": "Run",
+    "Python.static_methods.executor": "Run",
     "Python.turtle_racing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -280,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760845883396</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add scripting challenge">
+      <option name="closed" value="true" />
+      <created>1760851058445</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1760851058445</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -318,6 +330,7 @@
     <MESSAGE value="Add automated file backup program" />
     <MESSAGE value="Add Mastermind color code guessing game" />
     <MESSAGE value="Add aim trainer game and move mastermind game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add aim trainer game and move mastermind game" />
+    <MESSAGE value="Add scripting challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add scripting challenge" />
   </component>
 </project>
