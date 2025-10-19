@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add YouTube video downloader">
-      <change afterPath="$PROJECT_DIR$/medium/automated_file_backup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add automated file backup program">
+      <change afterPath="$PROJECT_DIR$/medium/mastermind_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,7 @@
     "Python.fundamentals.executor": "Run",
     "Python.learning_functions.executor": "Run",
     "Python.madlibs_generator.executor": "Run",
+    "Python.mastermind_game.executor": "Run",
     "Python.math_challenge.executor": "Run",
     "Python.number_guesser.executor": "Run",
     "Python.password_generator.executor": "Run",
@@ -242,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760831665187</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add automated file backup program">
+      <option name="closed" value="true" />
+      <created>1760836348680</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1760836348680</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -277,6 +285,7 @@
     <MESSAGE value="Add password generator" />
     <MESSAGE value="Add BFS Path Finder Program" />
     <MESSAGE value="Add YouTube video downloader" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add YouTube video downloader" />
+    <MESSAGE value="Add automated file backup program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add automated file backup program" />
   </component>
 </project>
