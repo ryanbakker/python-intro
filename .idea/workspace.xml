@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add Mastermind color code guessing game">
-      <change afterPath="$PROJECT_DIR$/advanced/aim_trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add aim trainer game and move mastermind game">
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/hello_world_game/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/my_game.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/rock_paper_scissors_game/code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/simon_says_game/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/data/spiderGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/general_scripting_challenge/get_game_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/mastermind_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced/mastermind_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +64,7 @@
     "Python.alarm_clock.executor": "Run",
     "Python.app.executor": "Run",
     "Python.fundamentals.executor": "Run",
+    "Python.get_game_data.executor": "Run",
     "Python.learning_functions.executor": "Run",
     "Python.madlibs_generator.executor": "Run",
     "Python.mastermind_game.executor": "Run",
@@ -77,12 +84,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/easy",
-    "settings.editor.selected.configurable": "preferences.general"
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/advanced/general_scripting",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/advanced/general_scripting" />
       <recent name="$PROJECT_DIR$/easy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -264,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760838951487</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add aim trainer game and move mastermind game">
+      <option name="closed" value="true" />
+      <created>1760845883396</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1760845883396</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -301,6 +317,7 @@
     <MESSAGE value="Add YouTube video downloader" />
     <MESSAGE value="Add automated file backup program" />
     <MESSAGE value="Add Mastermind color code guessing game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Mastermind color code guessing game" />
+    <MESSAGE value="Add aim trainer game and move mastermind game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add aim trainer game and move mastermind game" />
   </component>
 </project>
