@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add scripting challenge">
-      <change afterPath="$PROJECT_DIR$/object_oriented/class_attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/multiple_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/simple_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented/static_methods.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add object-oriented programming lesson">
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/finish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/grass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/green-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/grey-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/purple-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/red-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/track-border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/track.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/imgs/white-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_racing/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/fundamentals.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/fundamentals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/learning_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/learning_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,12 +91,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/advanced/general_scripting",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/car_racing",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/car_racing" />
       <recent name="$PROJECT_DIR$/advanced/general_scripting" />
       <recent name="$PROJECT_DIR$/easy" />
     </key>
@@ -292,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760851058445</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add object-oriented programming lesson">
+      <option name="closed" value="true" />
+      <created>1760866550082</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1760866550082</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -331,6 +343,7 @@
     <MESSAGE value="Add Mastermind color code guessing game" />
     <MESSAGE value="Add aim trainer game and move mastermind game" />
     <MESSAGE value="Add scripting challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add scripting challenge" />
+    <MESSAGE value="Add object-oriented programming lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add object-oriented programming lesson" />
   </component>
 </project>
