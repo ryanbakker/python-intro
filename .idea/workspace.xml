@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add game levels &amp; player stats">
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/ball.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/chessboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/shoe.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/soccer_practice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/colours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/connecting_webcam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/corner_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/drawing_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/facial_tracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/image_manipulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/images_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/object_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add OpenCV introductory code">
+      <change afterPath="$PROJECT_DIR$/flappy_bird/config-feedforward.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bird2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bird3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/pipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flappy_bird/notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,12 +92,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/opencv-computer-vision",
-    "settings.editor.selected.configurable": "terminal"
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/flappy_bird",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flappy_bird" />
       <recent name="$PROJECT_DIR$/opencv-computer-vision" />
       <recent name="$PROJECT_DIR$/car_racing" />
       <recent name="$PROJECT_DIR$/advanced/general_scripting" />
@@ -345,7 +340,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760916663150</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add OpenCV introductory code">
+      <option name="closed" value="true" />
+      <created>1761033937392</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1761033937392</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add OpenCV introductory code">
+      <option name="closed" value="true" />
+      <created>1761033941907</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1761033941907</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -363,7 +374,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Lesson" />
     <MESSAGE value="Add Quiz Game" />
     <MESSAGE value="Add Number Guessing Game" />
     <MESSAGE value="Add Rock, Paper, Scissors Game" />
@@ -388,6 +398,7 @@
     <MESSAGE value="Add car racing track collision &amp; finish line" />
     <MESSAGE value="Add computer car &amp; path" />
     <MESSAGE value="Add game levels &amp; player stats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add game levels &amp; player stats" />
+    <MESSAGE value="Add OpenCV introductory code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add OpenCV introductory code" />
   </component>
 </project>
