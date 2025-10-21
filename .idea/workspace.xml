@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add computer car &amp; path">
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add game levels &amp; player stats">
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/ball.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/chessboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/shoe.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/assets/soccer_practice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/colours.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/connecting_webcam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/corner_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/drawing_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/facial_tracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/image_manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/images_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_computer_vision/object_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_racing/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_racing/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_racing/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_racing/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +72,7 @@
     "Python.alarm_clock.executor": "Run",
     "Python.app.executor": "Run",
     "Python.class_attributes.executor": "Run",
+    "Python.connecting_webcam.executor": "Run",
     "Python.fundamentals.executor": "Run",
     "Python.get_game_data.executor": "Run",
     "Python.inheritance.executor": "Run",
@@ -84,17 +98,19 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/car_racing",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/opencv-computer-vision",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opencv-computer-vision" />
       <recent name="$PROJECT_DIR$/car_racing" />
       <recent name="$PROJECT_DIR$/advanced/general_scripting" />
       <recent name="$PROJECT_DIR$/easy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opencv_computer_vision" />
       <recent name="$PROJECT_DIR$/advanced" />
     </key>
   </component>
@@ -321,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760910644280</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add game levels &amp; player stats">
+      <option name="closed" value="true" />
+      <created>1760916663150</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1760916663150</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -339,7 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Commit" />
     <MESSAGE value="First Lesson" />
     <MESSAGE value="Add Quiz Game" />
     <MESSAGE value="Add Number Guessing Game" />
@@ -364,6 +387,7 @@
     <MESSAGE value="Car racing project init, adding assets, and moving the car" />
     <MESSAGE value="Add car racing track collision &amp; finish line" />
     <MESSAGE value="Add computer car &amp; path" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add computer car &amp; path" />
+    <MESSAGE value="Add game levels &amp; player stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add game levels &amp; player stats" />
   </component>
 </project>
