@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add OpenCV introductory code">
-      <change afterPath="$PROJECT_DIR$/flappy_bird/config-feedforward.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/base.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bird1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bird2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/bird3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/imgs/pipe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappy_bird/notes.md" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add ML Flappy Bird Trainer">
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/images/hangman6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,17 +91,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/flappy_bird",
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/hangman",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hangman" />
       <recent name="$PROJECT_DIR$/flappy_bird" />
       <recent name="$PROJECT_DIR$/opencv-computer-vision" />
       <recent name="$PROJECT_DIR$/car_racing" />
       <recent name="$PROJECT_DIR$/advanced/general_scripting" />
-      <recent name="$PROJECT_DIR$/easy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/opencv_computer_vision" />
@@ -356,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761033941907</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add ML Flappy Bird Trainer">
+      <option name="closed" value="true" />
+      <created>1761080084104</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1761080084104</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -374,7 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Quiz Game" />
     <MESSAGE value="Add Number Guessing Game" />
     <MESSAGE value="Add Rock, Paper, Scissors Game" />
     <MESSAGE value="Add choose your own adventure game" />
@@ -399,6 +405,7 @@
     <MESSAGE value="Add computer car &amp; path" />
     <MESSAGE value="Add game levels &amp; player stats" />
     <MESSAGE value="Add OpenCV introductory code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add OpenCV introductory code" />
+    <MESSAGE value="Add ML Flappy Bird Trainer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ML Flappy Bird Trainer" />
   </component>
 </project>
