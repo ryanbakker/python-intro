@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add ML Flappy Bird Trainer">
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/images/hangman6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hangman/main.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Hangman game init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761080084104</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Hangman game init">
+      <option name="closed" value="true" />
+      <created>1761386815444</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1761386815444</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -381,7 +382,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Number Guessing Game" />
     <MESSAGE value="Add Rock, Paper, Scissors Game" />
     <MESSAGE value="Add choose your own adventure game" />
     <MESSAGE value="Add basic password manager" />
@@ -406,6 +406,7 @@
     <MESSAGE value="Add game levels &amp; player stats" />
     <MESSAGE value="Add OpenCV introductory code" />
     <MESSAGE value="Add ML Flappy Bird Trainer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ML Flappy Bird Trainer" />
+    <MESSAGE value="Hangman game init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hangman game init" />
   </component>
 </project>
