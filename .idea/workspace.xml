@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Hangman game init">
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add hangman rendering &amp; mechanics">
+      <change afterPath="$PROJECT_DIR$/ml_intro/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_intro/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_intro/student-mat.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,27 +89,52 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/hangman",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "last_opened_file_path": "/Users/ryanbakker/Dev/python/ml_intro",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ml_intro" />
       <recent name="$PROJECT_DIR$/hangman" />
       <recent name="$PROJECT_DIR$/flappy_bird" />
       <recent name="$PROJECT_DIR$/opencv-computer-vision" />
       <recent name="$PROJECT_DIR$/car_racing" />
-      <recent name="$PROJECT_DIR$/advanced/general_scripting" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/opencv_computer_vision" />
       <recent name="$PROJECT_DIR$/advanced" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="python" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/ml_intro/main.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="tensor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_intro" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_intro/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -364,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761386815444</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Add hangman rendering &amp; mechanics">
+      <option name="closed" value="true" />
+      <created>1761437289529</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1761437289529</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -382,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Rock, Paper, Scissors Game" />
     <MESSAGE value="Add choose your own adventure game" />
     <MESSAGE value="Add basic password manager" />
     <MESSAGE value="Add PIG dice game" />
@@ -407,6 +444,7 @@
     <MESSAGE value="Add OpenCV introductory code" />
     <MESSAGE value="Add ML Flappy Bird Trainer" />
     <MESSAGE value="Hangman game init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hangman game init" />
+    <MESSAGE value="Add hangman rendering &amp; mechanics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hangman rendering &amp; mechanics" />
   </component>
 </project>
