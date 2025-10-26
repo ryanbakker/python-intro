@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add hangman rendering &amp; mechanics">
-      <change afterPath="$PROJECT_DIR$/ml_intro/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml_intro/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml_intro/student-mat.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="ML project init &amp; add linear regression chapter">
+      <change afterPath="$PROJECT_DIR$/ml_intro/chapter_one_to_three.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml_intro/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_intro/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761437289529</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ML project init &amp; add linear regression chapter">
+      <option name="closed" value="true" />
+      <created>1761517756277</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1761517756277</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -420,7 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add choose your own adventure game" />
     <MESSAGE value="Add basic password manager" />
     <MESSAGE value="Add PIG dice game" />
     <MESSAGE value="Add madlibs generator" />
@@ -445,6 +448,7 @@
     <MESSAGE value="Add ML Flappy Bird Trainer" />
     <MESSAGE value="Hangman game init" />
     <MESSAGE value="Add hangman rendering &amp; mechanics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hangman rendering &amp; mechanics" />
+    <MESSAGE value="ML project init &amp; add linear regression chapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="ML project init &amp; add linear regression chapter" />
   </component>
 </project>
