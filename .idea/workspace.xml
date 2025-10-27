@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add KNN algorithm exercise &amp; data">
-      <change afterPath="$PROJECT_DIR$/ml_intro/chapter_eight_to_ten.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add SVM implementation">
+      <change afterPath="$PROJECT_DIR$/ml_intro/chapter_eleven_to_twelve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml_intro/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml_intro/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml_intro/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/ml_intro/notes.md" afterDir="false" />
@@ -426,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761540164327</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Add SVM implementation">
+      <option name="closed" value="true" />
+      <created>1761558333271</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1761558333271</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -444,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add madlibs generator" />
     <MESSAGE value="Add timed math challenge" />
     <MESSAGE value="Add text-based slot machine game" />
     <MESSAGE value="Add turtle racing game" />
@@ -469,6 +476,7 @@
     <MESSAGE value="ML project init &amp; add linear regression chapter" />
     <MESSAGE value="Add using best model &amp; scatter plot generation" />
     <MESSAGE value="Add KNN algorithm exercise &amp; data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add KNN algorithm exercise &amp; data" />
+    <MESSAGE value="Add SVM implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add SVM implementation" />
   </component>
 </project>

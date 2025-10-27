@@ -49,3 +49,28 @@ Real world data doesn't usually present with a simple linear graph, worsened whe
 points to be incorrectly categorized, and thus a very low accuracy for predicting. To help resolve this, we can use a
 kernel (function) to add a dimension to a dataset. By mapping the data to a higher-dimensional space, we can separate
 the points where is can be easier to use a hyperplane.
+
+## Unsupervised Machine Learning Algorithms
+
+Algorithms that analyse and model datasets without labeled data. This is to discover hidden patterns, structures, or
+relationships within the dataset independently. This is ideal for datasets with a lack of labels, or for discovery of
+unknown patterns and relationships.
+
+### K-Means Clustering Algorithm
+
+The K represents how many clusters in an output. With a various amount of clusters, it is important to correctly
+implement centroids that will be used as a sort of index that can be referenced for assigning each data point to the
+correct cluster. The centroids a first given random positions in the dataset, with an evenly distributed divide being
+determined between. The data points are then assigned their cluster based on this division. The centroid is then
+repositioned to be in the average location of it's clusters data points.
+
+The steps are then followed again by evenly
+dividing the clusters based on the new positions of the centroids. Reassigning the datapoints based on their position in
+relation to the division. This is followed by once again repositioning the centroids, dividing, and reassigning. Being
+repeated until after each revision data points are no longer needed to be reassigned to a different cluster.
+
+### K-Means Clustering Limiations
+
+The algorithm can become extremely computationally heavy very quickly. This is because depending on centroid, feature,
+and data point amounts. As each amount increases the calculations needed to determine which cluster should be assigned
+for each datapoint is compounded.
