@@ -1,108 +1,53 @@
 # Neural Networks
 
-A **neural network** is simply a network made up of layers of **neurons**. Each neuron produces a **numerical output**
-based on the data it receives, rather than just being *on* or *off*.
-
-Neurons pass **weighted signals** forward through connections. Each connection affects how strongly the next neuron
-activates. How these neurons and layers are connected depends on the network’s **purpose or use case**.
-
-Typically, a **fully connected** (or *dense*) topology is used — where every neuron in one layer connects to every
-neuron in the next. This continues through the layers until an output is produced.
-
----
+A neural network is simply a network made up of layers of neurons. Each having a state of on and off. One neuron may
+determine if it's connected neurons turn or remain off or on. How the neurons and layers are connected are dependent on
+the use case of the network. However, typically a fully-connected topology is used where each neuron on layer A is
+connected once to each neuron on layer B. Continuing through the layers until an output is determined.
 
 ## Layer Connections
 
-In any neural network, there’s always an **input layer** (where data enters) and an **output layer** (where predictions
-are made). Between them can be one or more **hidden layers** that help the model learn complex patterns.
-
-Each layer connects to the next using **weights** and **biases**, which are values the model learns and adjusts during
-training.
-
----
+In a given network, it always begins with an input layer, and ends in an output layer. This is the main focus during
+development. Each layer is connected with another by connecting certain neurons with weights and biases.
 
 ## Weights & Biases
 
-**Weights** and **biases** determine how much influence each neuron has on the next.
-
-These values are adjusted automatically as the model trains on data, using a process called **backpropagation**. This
-works by comparing the model’s predictions to the correct answers, calculating the **error (loss)**, and then adjusting
-the weights and biases to reduce that error.
-
-In simpler terms — the model learns through **trial and error**, improving its predictions each time it sees the data.
-
----
+These are adjusted while the model trains on given data, following a process of trial and error. As an example this can
+be influenced by giving the model points for succeeding and take away points for failing. Depending on what the desired
+outcome should be. Now depending on this reward system the network will make adjustments to each bias and weight.
 
 ## Activation Functions
 
-If we used only **linear functions**, the network would be limited in what it could learn — essentially acting like a
-single straight line.
-
-To solve this, we use **activation functions**, which introduce **nonlinearity**. These functions help the network
-handle complex data and patterns.
-
-For example:
-
-- A **sigmoid** activation produces an *S-shaped* curve.
-- A **ReLU (Rectified Linear Unit)** outputs 0 for negative inputs and the same value for positive inputs.
-
-Activation functions also help **normalize or compress** the neuron’s output, making the network more stable and
-efficient during training.
-
----
+Using linear functions is not a great method to use for neural networks, as it limits the network complexity. So we use
+an activation or simply a nonlinear function. On a graph a linear function would give a straight line, whereas an
+activation function it could be more like an S-curve for example. They can also make processing data more workable, by
+transforming a neuron's output or compress the data's representation.
 
 ## Fashion-MNIST Neural Network Architecture
 
-When designing a neural network for the **Fashion-MNIST** dataset, the process usually begins by preparing the data for
-the **input layer**.
-
----
+The process of designing the architecture of a neural network typically begins with flattening the data for the input
+layer.
 
 ### Input Layer
 
-In the example from Chapter Three using **28×28 images**, each image has **784 pixels** (28×28 = 784).  
-This means we need **784 input neurons**, one for each pixel value.
-
-> Example:  
-> From `[[1], [2], [3] ... [784]]` → flattened to `[1, 2, 3 ... 784]`
-
----
-
-### Hidden Layers
-
-Rather than having only input and output layers, we add at least **one hidden layer** — for example, with **128 neurons
-**.
-
-This layer increases the model’s ability to learn complex features.
-
-- Without a hidden layer: 784 input neurons × 10 outputs = **7,840 weights**
-- With one hidden layer (128 neurons):
-    - 784 × 128 = **100,352 weights** (input → hidden)
-    - 128 × 10 = **1,280 weights** (hidden → output)
-    - **≈ 101,632 total weights**
-
-Adding this hidden layer makes the model far more powerful.
-
----
+In the chapter
+three example using 28x28 images, the data will go from [[1], [2], [3]... [748]] and be changed to [1, 2, 3... 748] with
+each number representing a pixel of the image. This means the initial input layer will contain 748 neurons.
 
 ### Output Layer
 
-The **output layer** has **10 neurons**, one for each possible class (digits **0–9**).  
-Each neuron represents the model’s **confidence** that the image corresponds to that class.
+The output layer will consist of 10 neurons/classes representing the desired output of 0 - 9. Each of which is going to
+be the network's prediction of how likely it will be the number the given neuron represents.
 
-For example, if the model predicts:
-> [0.01, 0.03, 0.02, 0.10, 0.05, 0.70, 0.03, 0.02, 0.03, 0.01]
+### Hidden Layers
 
-…it’s most confident the image represents the number **5** (since that neuron’s output is the highest).
-
----
+Rather than having a neural network with just two layers (input and output), there will also be one hidden layer of 128
+neurons. This adds complexity to the model and will allow for identifying more complex patterns in the data. Pushes the
+7840 weights/balances with two layers, to 1,003,520 when using the hidden layer.
 
 ## Epochs
 
-An **epoch** refers to **one complete pass** through the entire training dataset.
+This is how many times the model will see the data. When the model has randomly selected the training data, it will be
+shown the same selected data to the value epochs is set. We do this as changing the order of data shown to the model
+will influence how it trains. Giving more variety and better accuracy when training.
 
-During training, the data is often **shuffled** before each epoch. This helps prevent the model from memorizing the
-order of the data and improves its ability to generalize to new examples.
-
-Training for more epochs means the model will see the data multiple times, usually leading to **better accuracy** — up
-to a point where improvements begin to level off.

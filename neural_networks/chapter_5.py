@@ -1,6 +1,5 @@
-import tensorflow as tf
+# Text Classification Part One
 from tensorflow import keras
-import numpy as np
 
 data = keras.datasets.imdb
 
