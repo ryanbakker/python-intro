@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add chapter 5">
-      <change afterPath="$PROJECT_DIR$/neural_networks/chapter_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural_networks/chapter_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural_networks/chapter_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural_networks/review_test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add model training &amp; using internal data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neural_networks/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neural_networks/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761715545413</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Add model training &amp; using internal data">
+      <option name="closed" value="true" />
+      <created>1762064461470</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1762064461470</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -480,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add speed typing test game with test sentences" />
     <MESSAGE value="Add alarm clock/timer" />
     <MESSAGE value="Add password generator" />
     <MESSAGE value="Add BFS Path Finder Program" />
@@ -505,6 +506,7 @@
     <MESSAGE value="Add K-Means Clustering Notes &amp; Implementation Example" />
     <MESSAGE value="Add neural networks chapters 1-4" />
     <MESSAGE value="Add chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add chapter 5" />
+    <MESSAGE value="Add model training &amp; using internal data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add model training &amp; using internal data" />
   </component>
 </project>
