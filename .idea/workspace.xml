@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add neural networks chapters 1-4">
-      <change afterPath="$PROJECT_DIR$/neural_networks/chapter_5.py" afterDir="false" />
+    <list default="true" id="6f8b5fa0-7d6f-446f-b1a1-379dad184c58" name="Changes" comment="Add chapter 5">
       <change afterPath="$PROJECT_DIR$/neural_networks/chapter_6.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/neural_networks/chapter_7.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/neural_networks/chapter_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural_networks/chapter_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural_networks/review_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neural_networks/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neural_networks/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/neural_networks/notes.md" afterDir="false" />
@@ -58,45 +58,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Notification.DisplayName-DoNotAsk-git.push.result": "",
-    "Notification.DoNotAsk-git.push.result": "true",
-    "Python.aim_trainer.executor": "Run",
-    "Python.alarm_clock.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.class_attributes.executor": "Run",
-    "Python.connecting_webcam.executor": "Run",
-    "Python.fundamentals.executor": "Run",
-    "Python.get_game_data.executor": "Run",
-    "Python.inheritance.executor": "Run",
-    "Python.learning_functions.executor": "Run",
-    "Python.madlibs_generator.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mastermind_game.executor": "Run",
-    "Python.math_challenge.executor": "Run",
-    "Python.multiple_classes.executor": "Run",
-    "Python.number_guesser.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.password_manager.executor": "Run",
-    "Python.path_finder.executor": "Run",
-    "Python.pig_dice_game.executor": "Run",
-    "Python.quiz_game.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "Python.slot_machine.executor": "Run",
-    "Python.speed_typing_test.executor": "Run",
-    "Python.static_methods.executor": "Run",
-    "Python.turtle_racing.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanbakker/Dev/python/ml_intro",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-git.push.result&quot;: &quot;&quot;,
+    &quot;Notification.DoNotAsk-git.push.result&quot;: &quot;true&quot;,
+    &quot;Python.aim_trainer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alarm_clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.connecting_webcam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fundamentals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_game_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.learning_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.madlibs_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mastermind_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_guesser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.path_finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pig_dice_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slot_machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speed_typing_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.static_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_racing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanbakker/Dev/python/ml_intro&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ml_intro" />
@@ -454,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761646075650</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Add chapter 5">
+      <option name="closed" value="true" />
+      <created>1761715545413</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1761715545413</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -472,7 +480,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add turtle racing game" />
     <MESSAGE value="Add speed typing test game with test sentences" />
     <MESSAGE value="Add alarm clock/timer" />
     <MESSAGE value="Add password generator" />
@@ -497,6 +504,7 @@
     <MESSAGE value="Add SVM implementation" />
     <MESSAGE value="Add K-Means Clustering Notes &amp; Implementation Example" />
     <MESSAGE value="Add neural networks chapters 1-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add neural networks chapters 1-4" />
+    <MESSAGE value="Add chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add chapter 5" />
   </component>
 </project>
